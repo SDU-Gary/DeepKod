@@ -1,0 +1,10 @@
+datasets==3.3.2
+elasticsearch==8.17.2
+fastapi
+numpy==2.2.3
+pandas==2.2.3
+python-dotenv==1.0.1
+Requests==2.32.3
+sentence_transformers==3.4.1
+SQLAlchemy==2.0.38
+tqdm==4.67.1
